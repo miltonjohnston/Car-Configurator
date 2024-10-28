@@ -1,0 +1,11 @@
+# ~/personal/.gitconfig.pers
+ 
+[user]
+email = miltonjohnston226@gmail.com
+name = Milton Johnston
+ 
+[github]
+user = "nightmare226"
+ 
+[core]
+sshCommand = "ssh -i ~/.ssh/milton"
